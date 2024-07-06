@@ -24,7 +24,7 @@
             <td rowspan=1 align="center"> <a href=https://github.com/bl82/Portfolio/blob/main/Prtoject_02/Анализ%20убытков%20приложения.ipynb>Анализ убытков приложения ProcrastinatePRO+</a>  </td>
             <td rowspan=1 align="center">Проведен анализ данных от ProcrastinatePRO+.
 Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.</td>
-            <td rowspan=1 align="center">Python, Pandas, Matplotlib, когортный анализ, юнит=экономика, продуктовые метрики, Seaborn</td>
+            <td rowspan=1 align="center">Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn</td>
         </tr>
     </tbody>
 </table>
